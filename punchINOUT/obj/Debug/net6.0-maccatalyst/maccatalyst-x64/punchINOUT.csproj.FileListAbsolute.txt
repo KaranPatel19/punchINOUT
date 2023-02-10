@@ -1,0 +1,80 @@
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauiimage.inputs
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauifont.inputs
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauisplash.inputs
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauisplash.stamp
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@2x.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@3x.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@2x.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@3x.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@2x.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@3x.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon76x76@2x.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon83.5x83.5@2x.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appiconItunesArtwork.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents.json
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot@2x.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot@3x.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/avatar.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/password.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/username.png
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauiimage.stamp
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/f/MauiInfo.plist
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauifont.stamp
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/f/OpenSans-Regular.ttf
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/f/OpenSans-Semibold.ttf
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/_PartialAppManifest.items
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/_BundleResourceWithLogicalName.items
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/_ProcessedImageAssetsPath.items
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/coremlc/_PartialAppManifest.items
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/coremlc/_BundleResourceWithLogicalName.items
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/_ProcessedBundleResourcesPath.items
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/_ProcessedContentPath.items
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/punchINOUT.csproj.AssemblyReference.cache
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/punchINOUT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/punchINOUT.AssemblyInfoInputs.cache
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/punchINOUT.AssemblyInfo.cs
+/Users/karanpatel/Downloads/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/punchINOUT.csproj.CoreCompileInputs.cache
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauiimage.inputs
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauifont.inputs
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauisplash.inputs
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauisplash.stamp
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@2x.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon20x20@3x.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@2x.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon29x29@3x.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@2x.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon40x40@3x.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@2x.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon60x60@3x.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon76x76@2x.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appicon83.5x83.5@2x.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/appiconItunesArtwork.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Assets.xcassets/appicon.appiconset/Contents.json
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot@2x.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/dotnet_bot@3x.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/avatar.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/password.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/username.png
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauiimage.stamp
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/f/MauiInfo.plist
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mauifont.stamp
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/f/OpenSans-Regular.ttf
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/resizetizer/f/OpenSans-Semibold.ttf
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/_PartialAppManifest.items
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/_BundleResourceWithLogicalName.items
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/actool/_ProcessedImageAssetsPath.items
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/coremlc/_PartialAppManifest.items
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/coremlc/_BundleResourceWithLogicalName.items
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/_ProcessedBundleResourcesPath.items
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/_ProcessedContentPath.items
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/punchINOUT.csproj.AssemblyReference.cache
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/punchINOUT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/punchINOUT.AssemblyInfoInputs.cache
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/punchINOUT.AssemblyInfo.cs
+/Users/karanpatel/Documents/GitHub/Final Project/punchINOUT/punchINOUT/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/punchINOUT.csproj.CoreCompileInputs.cache
