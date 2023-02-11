@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{2D64F6B9-EFEE-4283-9811-79F28DE9FD53}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.punchINOUT PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="punchINOUT/LoginPage.xaml">
+    <Files>
+      <File FileName="punchINOUT/LoginPage.xaml" Line="55" Column="1" />
+      <File FileName="punchINOUT/ContentPage.cs" Line="1" Column="1" />
+      <File FileName="punchINOUT/LoginPage.xaml.cs" Line="8" Column="3" />
+      <File FileName="punchINOUT/MainPage.xaml" Line="9" Column="27" />
+      <File FileName="punchINOUT/MauiProgram.cs" Line="14" Column="5" />
+      <File FileName="punchINOUT/ViewModels/LoginPageViewModel.cs" Line="1" Column="1" />
+      <File FileName="punchINOUT/ViewModels/BaseViewModel.cs" Line="6" Column="1" />
+      <File FileName="punchINOUT/App.xaml" Line="1" Column="1" />
+      <File FileName="punchINOUT/AppShell.xaml" Line="16" Column="1" />
+      <File FileName="punchINOUT/Models/Employee.cs" Line="12" Column="1" />
+      <File FileName="punchINOUT/Models/HR.cs" Line="1" Column="1" />
+      <File FileName="punchINOUT/Models/Place.cs" Line="1" Column="1" />
+      <File FileName="punchINOUT/Views/MainPage.xaml.cs" Line="17" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="punchINOUT" expanded="True">
+            <Node name="punchINOUT" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" expanded="True" />
+              </Node>
+              <Node name="LoginPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
